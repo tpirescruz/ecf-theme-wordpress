@@ -838,3 +838,14 @@ textarea:focus,
 		display: flex;
 	}
 }
+.arch-navi-container{
+	display: flex;
+	justify-content: center;
+}
+.archive-navigation{
+	text-decoration: none;
+	padding: 2rem 5rem;
+	border-top: 2px solid var(--grey-light);
+	border-bottom: 2px solid var(--grey-light);
+	color: var(--grey-dark);
+}
